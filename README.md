@@ -6,6 +6,8 @@ A 5x5 grid world environment is created and value iteration is opted to find the
 
 It is implemented in stochastic environment, where the probability of agent's movement is already expected is 0.7, whereas probability that the agent will move randomly is 0.3. The below shown is the Value grid environment(transition value grid).
 
+![WhatsApp Image 2022-06-14 at 9 47 27 AM](https://user-images.githubusercontent.com/86656428/173492549-aef40418-cc72-4aa0-a610-208cba4a8ccc.jpeg)
+
 
 The state space of the grid world environment is represented in 5x5 grid. The grid shown below is depicts the Policy to be taken to acquire maximum reward.
 The agent can move either U,D,L or R inorder to reach terminal state with maximum reward.
